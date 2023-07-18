@@ -22,19 +22,7 @@ public class Collection {
 	 s.addAll(l);
 		for (Integer integer : s) {
 			System.out.println(integer);
-		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		}		
+		System.out.println("modified codes");
 }
 	}
