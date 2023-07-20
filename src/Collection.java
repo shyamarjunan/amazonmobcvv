@@ -24,5 +24,9 @@ public class Collection {
 			System.out.println(integer);
 		}		
 		System.out.println("modified codes");
+		
+		
+System.out.println("paymentCodes");
 }
+	
 	}
